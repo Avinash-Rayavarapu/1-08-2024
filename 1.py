@@ -1,3 +1,3 @@
 a=2
-b=5
-print(a+b)
+b=6
+print(a-b)
